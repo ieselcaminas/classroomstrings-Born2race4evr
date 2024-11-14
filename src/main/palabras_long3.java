@@ -1,4 +1,3 @@
-package main;
 public class palabras_long3 {
 
     public static boolean largoOCorto (String[] palabras){
