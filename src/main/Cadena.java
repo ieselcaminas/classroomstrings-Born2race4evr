@@ -1,4 +1,3 @@
-package main;
 public class Cadena {
     public static void main(String[] args) {
         String cadena = "Hola que tal?";
